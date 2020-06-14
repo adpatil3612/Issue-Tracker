@@ -1,6 +1,6 @@
-# AdPatil (myapp)
+# Issue Tracker
 
-A Quasar Framework app
+A Issue Tracker App developed using Quasar Framework app, Vue and Vuex
 
 ## Install the dependencies
 ```bash
@@ -21,6 +21,3 @@ npm run lint
 ```bash
 quasar build
 ```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
